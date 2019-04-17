@@ -18,3 +18,5 @@ The data analysis should **consist of** the following components:
 2. Visualization and description of the data.
 3. Performance and evaluations results of the predictive model.
 4. Insights gained from the analysis.
+
+![Grace Kelly & Cary Grant](Nizza.jpg)
