@@ -10,13 +10,8 @@ The files provide detailed road safety data about the circumstances of personal 
 ### Task
 The **purpose** of this analysis is:
 - To summarize the main characteristics of the data, and obtain interesting facts that are worth highlighting.
-- Identity and quantify associations (if any) between the number of casualities (in the Accidents table) and other variables in the data set.
+- Identity and quantify associations (if any) between the number of casualities and other variables in the data set.
 - Explore whether it is possible to predict accident hotspots based on the data. 
 
-The data analysis should **consist of** the following components:
-1. A short description and justification of the steps taken.
-2. Visualization and description of the data.
-3. Performance and evaluations results of the predictive model.
-4. Insights gained from the analysis.
 
 ![Grace Kelly & Cary Grant](Nizza.jpg)
